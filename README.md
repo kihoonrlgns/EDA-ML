@@ -1,2 +1,2 @@
-# mpg-data-analysis
-mpg data set analysis in R
+# data-analysis
+data set analysis in R

@@ -1,2 +1,2 @@
-# data-analysis
-data set analysis in R
+# Exploratory data analysis and Machine Learning
+EDA-ML

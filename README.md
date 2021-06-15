@@ -1,2 +1,2 @@
 # EDA-ML
-data analysis
+Exploratory data analysis and Machine Learning
